@@ -1,0 +1,5 @@
+{
+  "name": "Al-Mail Warehouse Management",
+  "description": "A comprehensive warehouse management system for 'شركة الميل للمقاولات' in Egypt. It handles invoices, products, purchases, and stock monitoring with a simple, modern interface.",
+  "requestFramePermissions": []
+}
